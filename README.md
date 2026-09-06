@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-05
+### 📅 Latest snapshot — 2026-09-06
 
-> *"However difficult life may seem, there is always something you can do and succeed at."* — **Stephen Hawking**
+> *"A man with outward courage dares to die: a man with inner courage dares to live."* — **Lao Tzu**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,068 | +0.83% |
-| Ethereum | $2,478.9 | +1.43% |
-| Solana | $103.9 | +2.73% |
+| Bitcoin | $79,862 | +0.24% |
+| Ethereum | $2,497.9 | +1.73% |
+| Solana | $105.3 | +3.02% |
 
-**🔭 NASA:** [Chasing the Moon's Shadow](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg)
+**🔭 NASA:** [Pluto in Enhanced Color](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg)
 
 **🚗 Car news:** [Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore](https://www.motor1.com/news/807183/rolls-royce-vs-bentley-sales-figures/)
 
-**📜 On this day, 394:** On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I. — [Battle of the Frigidus](https://en.wikipedia.org/wiki/Battle_of_the_Frigidus)
+**📜 On this day, 394:** Battle of the Frigidus: Roman emperor Theodosius I defeats and kills Eugenius the usurper. His Frankish magister militum Arbogast escapes but commits suicide two days later. — [Battle of the Frigidus](https://en.wikipedia.org/wiki/Battle_of_the_Frigidus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
