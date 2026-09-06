@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,862 | +0.24% |
-| Ethereum | $2,497.9 | +1.73% |
-| Solana | $105.3 | +3.02% |
+| Bitcoin | $79,748 | -0.38% |
+| Ethereum | $2,492.57 | +0.47% |
+| Solana | $106.2 | +1.87% |
 
 **🔭 NASA:** [Pluto in Enhanced Color](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg)
 
